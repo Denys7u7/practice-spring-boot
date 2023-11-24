@@ -1,0 +1,7 @@
+GET /user/15 HTTP/1.1
+Host: localhost:8080
+
+###
+
+GET /user HTTP/1.1
+Host: localhost:8080
